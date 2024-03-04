@@ -1,4 +1,4 @@
-Graphical User Interface (GUI): The game features an intuitive and visually appealing GUI built using Python's Tkinter library. Users can interact with the game using button                                      arranged in a 3x3 grid, representing the Tic Tac Toe board.
+Graphical User Interface (GUI): The game features an intuitive and visually appealing GUI built using Python's Tkinter library. Users can interact with the game using button       <br>                               arranged in a 3x3 grid, representing the Tic Tac Toe board.
 Responsive Gameplay: The GUI ensures responsive gameplay, allowing players to make moves by clicking on the grid squares corresponding to their desired positions. The game logic
                       automatically determines the validity of moves and updates the board accordingly.
 Winning Detection: The game engine efficiently detects winning patterns on the board, indicating when a player achieves three consecutive marks in a row, column, or diagonal.                         Winning squares are highlighted to provide visual feedback to the players.
